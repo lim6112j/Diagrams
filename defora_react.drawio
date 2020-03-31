@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2020-03-31T07:10:02.859Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="cdJqNIK7XPL0CmTqJpRI" version="12.9.5" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-31T07:16:04.775Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.149 Safari/537.36" etag="aTkV8SUPQk7cUqlxIbau" version="12.9.5" type="github">
   <diagram name="Page-1" id="e56a1550-8fbb-45ad-956c-1786394a9013">
     <mxGraphModel dx="1426" dy="803" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1100" pageHeight="850" background="#ffffff" math="0" shadow="0">
       <root>
@@ -19,9 +19,9 @@
         <mxCell id="r_ziAdbYfkPryN-cwHuM-40" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r_ziAdbYfkPryN-cwHuM-11" target="r_ziAdbYfkPryN-cwHuM-38">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <UserObject label="main" treeRoot="1" id="r_ziAdbYfkPryN-cwHuM-11">
+        <UserObject label="phone auth" treeRoot="1" id="r_ziAdbYfkPryN-cwHuM-11">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-            <mxGeometry x="260" y="160" width="120" height="60" as="geometry" />
+            <mxGeometry x="260" y="190" width="120" height="60" as="geometry" />
           </mxCell>
         </UserObject>
         <UserObject label="Search" treeRoot="1" id="r_ziAdbYfkPryN-cwHuM-38">
@@ -111,14 +111,6 @@
             <mxGeometry x="440" y="505" width="80" height="60" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="r_ziAdbYfkPryN-cwHuM-44" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r_ziAdbYfkPryN-cwHuM-43" target="r_ziAdbYfkPryN-cwHuM-11">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <UserObject label="Auth" treeRoot="1" id="r_ziAdbYfkPryN-cwHuM-43">
-          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
-            <mxGeometry x="260" y="60" width="120" height="60" as="geometry" />
-          </mxCell>
-        </UserObject>
         <UserObject label="Buttons" treeRoot="1" id="r_ziAdbYfkPryN-cwHuM-47">
           <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
             <mxGeometry x="680" y="505" width="80" height="60" as="geometry" />
@@ -129,6 +121,23 @@
             <mxGeometry x="1030" y="505" width="80" height="60" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="r_ziAdbYfkPryN-cwHuM-61" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="r_ziAdbYfkPryN-cwHuM-60" target="r_ziAdbYfkPryN-cwHuM-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <UserObject label="main" treeRoot="1" id="r_ziAdbYfkPryN-cwHuM-60">
+          <mxCell style="whiteSpace=wrap;html=1;align=center;treeFolding=1;treeMoving=1;newEdgeStyle={&quot;edgeStyle&quot;:&quot;elbowEdgeStyle&quot;,&quot;startArrow&quot;:&quot;none&quot;,&quot;endArrow&quot;:&quot;none&quot;};" vertex="1" parent="1">
+            <mxGeometry x="260" y="80" width="120" height="60" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="r_ziAdbYfkPryN-cwHuM-62" value="P2P connection with phone" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="520" y="190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="r_ziAdbYfkPryN-cwHuM-63" value="" style="endArrow=classic;startArrow=classic;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="r_ziAdbYfkPryN-cwHuM-11" target="r_ziAdbYfkPryN-cwHuM-62">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="440" y="260" as="sourcePoint" />
+            <mxPoint x="490" y="210" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
