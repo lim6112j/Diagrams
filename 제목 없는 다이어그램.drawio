@@ -1,1 +1,33 @@
-<mxfile host="app.diagrams.net" modified="2022-11-21T04:32:32.080Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" version="20.5.3" etag="qoFhq_eYSYI1UAuku0X1" type="github"><diagram id="MveOsUGR3dO3t1t53Gxd">UzV2zq1wL0osyPDNT0nNUTV2VTV2LsrPL4GwciucU3NyVI0MMlNUjV1UjYwMgFjVyA2HrCFY1qAgsSg1rwSLBiADYTaQg2Y1AA==</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-11-21T06:08:28.553Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/107.0.0.0 Safari/537.36" etag="7NdrTj8jdf3T7iMMY1fR" version="20.5.3" type="github">
+  <diagram id="MveOsUGR3dO3t1t53Gxd" name="페이지-1">
+    <mxGraphModel dx="1426" dy="826" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="_E07kUeSM8d5cSH_9OQ4-8" value="" style="rounded=0;whiteSpace=wrap;html=1;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="459" y="240" width="180" height="220" as="geometry" />
+        </mxCell>
+        <mxCell id="_E07kUeSM8d5cSH_9OQ4-4" value="Advertise" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="_E07kUeSM8d5cSH_9OQ4-2" target="_E07kUeSM8d5cSH_9OQ4-3">
+          <mxGeometry x="-0.6" y="10" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_E07kUeSM8d5cSH_9OQ4-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;dashed=1;" edge="1" parent="1" source="_E07kUeSM8d5cSH_9OQ4-2" target="_E07kUeSM8d5cSH_9OQ4-5">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_E07kUeSM8d5cSH_9OQ4-2" value="Beacon&lt;br&gt;(iBeacon, Eddystone)" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="219" y="320" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_E07kUeSM8d5cSH_9OQ4-3" value="IOS app" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="489" y="280" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_E07kUeSM8d5cSH_9OQ4-5" value="Android app" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="490" y="370" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_E07kUeSM8d5cSH_9OQ4-9" value="Background Run??" style="text;html=1;strokeColor=none;fillColor=default;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="484" y="210" width="130" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
